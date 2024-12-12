@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">faded_slider</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="next">Tiếp theo</string>
+    <string name="text_description_1">Trải nghiệm trải nghiệm chuyên du lịch tuyệt vời từ việc đặt phòng khách sạn.</string>
+    <string name="text_description_2">Khám phá hàng trăm căn phòng đẹp với dịch vụ tuyệt vời</string>
+    <string name="text_description_3">Sử dụng vô vàn tiện ích nội khu tuyệt vời từ chuỗi khách sạn top đầu Việt Nam.</string>
+    <string name="text_title_1">Thuê phòng nhanh chóng</string>
+    <string name="text_title_2">Phòng chuẩn quốc tế</string>
+    <string name="text_title_3">Tiện ích đẳng cấp</string>
+</resources>
